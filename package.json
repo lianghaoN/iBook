@@ -1,0 +1,23 @@
+{
+  "name": "iBook",
+  "version": "1.0.0",
+  "description": "这是一个用于 GitBook自动化构建的 Demo。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lianghaoN/iBook.git"
+  },
+  "keywords": [],
+  "author": "lianghaoN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lianghaoN/iBook/issues"
+  },
+  "homepage": "https://github.com/lianghaoN/iBook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
